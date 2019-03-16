@@ -29,7 +29,8 @@ h1 {
 }
 
 .col-right {
-	text-align: left;
+    text-align: right;
+    padding-right: 29%;
 }
 
 .table-first-col {
